@@ -3,10 +3,14 @@ function setup() {
 
   background(179, 212, 101);
  
-  stroke(255);
   noFill();
 
+  stroke(255,0,0);
   line(10, 10, 90, 10);
-    rect(20, 20, 80, 50);
-    ellipse(50, 50, 50, 50);
+  
+  stroke(0.255,0);
+  rect(20, 20, 80, 50);
+
+  stroke(0,0,255);
+  ellipse(50, 50, 50, 50);
 }
