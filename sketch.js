@@ -8,7 +8,7 @@ function setup() {
   stroke(255,0,0);
   line(10, 10, 90, 10);
   
-  stroke(0.255,0);
+  stroke(0,255,0);
   rect(20, 20, 80, 50);
 
   stroke(0,0,255);
